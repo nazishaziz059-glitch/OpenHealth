@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OpenHealth: A Comprehensive AI Tool for Remote Health Care    (Under Development)
 
 <img src="static/images/Logo.png" alt="Project Logo"/>
@@ -155,3 +156,7 @@ Hema Kalyan Murapaka - [kalyanmurapaka274@gmail.com](kalyanmurapaka274@gmail.com
 ## Acknowledgements
 
 We'd like to extend our gratitude to all individuals and organizations who have played a role in the development and success of this project. Your support, whether through contributions, inspiration, or encouragement, has been invaluable. Thank you for being a part of our journey.
+=======
+# OpenHealth
+This is OpenHealth Repository
+>>>>>>> 74224a72923f093e3f22dd3b41de5c3df094982b
